@@ -194,7 +194,7 @@ input,
 select,
 textarea {
   color: #222222;
-  font-family: "Lato", sans-serif;
+  font-family: "Gill Sans", sans-serif;
   font-size: 16pt;
   font-weight: 400;
   line-height: 1.75em;
@@ -231,7 +231,7 @@ b {
 
 em,
 i {
-  font-style: italic;
+  font-style: normal;
 }
 
 p {
@@ -310,7 +310,7 @@ hr.major {
 
 blockquote {
   border-left: solid 8px #e4e4e4;
-  font-style: italic;
+  font-style: normal;
   margin: 0 0 2.25em 0;
   padding: 0.5em 0 0.5em 2em;
 }
@@ -2068,25 +2068,25 @@ input[type="radio"] + label:before {
 
 ::-webkit-input-placeholder {
   color: #aaa !important;
-  font-style: italic;
+  font-style: normal;
   opacity: 1;
 }
 
 :-moz-placeholder {
   color: #aaa !important;
-  font-style: italic;
+  font-style: normal;
   opacity: 1;
 }
 
 ::-moz-placeholder {
   color: #aaa !important;
-  font-style: italic;
+  font-style: normal;
   opacity: 1;
 }
 
 :-ms-input-placeholder {
   color: #aaa !important;
-  font-style: italic;
+  font-style: normal;
   opacity: 1;
 }
 
@@ -2871,7 +2871,7 @@ input[type="button"]:disabled,
 
 #header > header p {
   color: #eadfd8;
-  font-style: italic;
+  font-style: normal;
   margin: 1em 0 0 0;
 }
 
