@@ -226,7 +226,7 @@ a:hover {
 strong,
 b {
   color: #000;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 em,
@@ -245,7 +245,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
 }
@@ -1894,7 +1894,7 @@ header.major h2 {
 header.major h2 + p {
   color: #000;
   font-size: 1.75em;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: -0.75em;
 }
 
@@ -1908,7 +1908,7 @@ label {
   color: #000;
   display: block;
   font-size: 0.9em;
-  font-weight: 700;
+  font-weight: 600;
   margin: 0 0 1.125em 0;
 }
 
@@ -2025,7 +2025,7 @@ input[type="radio"] + label:before {
   line-height: 1;
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
-  font-weight: 900;
+  font-weight: 700;
 }
 
 input[type="checkbox"] + label:before,
@@ -2141,7 +2141,7 @@ input[type="radio"] + label:before {
 }
 
 .icon.solid:before {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .icon.brands:before {
@@ -2565,7 +2565,7 @@ table td {
 table th {
   color: #000;
   font-size: 0.9em;
-  font-weight: 700;
+  font-weight: 600;
   padding: 0 0.75em 0.75em 0.75em;
   text-align: left;
 }
@@ -2632,7 +2632,7 @@ input[type="button"],
   color: #ffffff !important;
   cursor: pointer;
   display: inline-block;
-  font-weight: 700;
+  font-weight: 600;
   height: 2.75em;
   line-height: 2.75em;
   padding: 0 1.5em;
@@ -3164,7 +3164,7 @@ input[type="button"]:disabled,
   #titleBar .title {
     color: #fff;
     display: block;
-    font-weight: 700;
+    font-weight: 600;
     height: 44px;
     line-height: 44px;
     padding: 0 1em;
@@ -3198,7 +3198,7 @@ input[type="button"]:disabled,
     line-height: 1;
     text-transform: none !important;
     font-family: "Font Awesome 5 Free";
-    font-weight: 900;
+    font-weight: 700;
   }
 
   #titleBar .toggle:before {
