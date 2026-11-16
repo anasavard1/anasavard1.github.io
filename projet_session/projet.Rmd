@@ -1,1 +1,21 @@
+# La tendance du baby boom
 
+Ana Savard  
+Université Laval  
+11-12-2026
+
+## 1. Introduction
+[Research context, gap, and objective.]
+
+## 2. Méthodologie
+
+## 3. Results
+| Measure | Baseline | Result |
+|---|---:|---:|
+| [Metric] | [Value] | [Value] |
+
+## 6. Conclusion
+[Direct answer to the research objective.]
+
+## Bibliographie
+1. [Reference in the required style]
