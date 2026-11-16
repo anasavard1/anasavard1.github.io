@@ -5,7 +5,7 @@ Université Laval
 2026-12-11
 
 ## 1. Introduction
-Le baby-boom est un événement qui a été très marquant pour l'histoire du Canada. Les enseignants au secondaire nous parlaient de comment la fin de la Seconde Guerre mondiale, l'amélioration des conditions de vie et l'euphorie générale de la population a favorisé une augmentation des taux de naissance, créant ainsi une nouvelle génération des «Baby boomers ».
+Le baby-boom est un événement qui a été très marquant pour l'histoire du Canada. Les enseignants au secondaire nous parlaient de comment la fin de la Seconde Guerre mondiale, l'amélioration des conditions de vie et l'euphorie générale de la population a favorisé une augmentation des taux de naissance, créant ainsi une nouvelle génération des «Baby boomers ». Selon Statistiques Québec, cette génération se situe en 1946 et 1965, en pleine période de prospérité (Statistiques Québec, 2026).
 
 ## 2. Méthodologie
 
@@ -18,4 +18,4 @@ Le baby-boom est un événement qui a été très marquant pour l'histoire du Ca
 [Direct answer to the research objective.]
 
 ## Bibliographie
-1. [Reference in the required style]
+1. https://statistique.quebec.ca/vitrine/vieillissement/themes/population/pyramide-ages-animee 
