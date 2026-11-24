@@ -1,6 +1,6 @@
 ---
 title: "La tendance du baby boom"
-author: "Ana Savard<br>Université Laval"<br>"2026-12-11"
+author: "Ana Savard<br>Université Laval<br>2026-12-11"
 output: html_document
 ---
 
