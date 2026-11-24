@@ -12,7 +12,7 @@ Durant cette étape, plusieurs outils ont été utilisé pour faire la synthèse
 ## 2. Collecte de données
 
 ## 3. Analyse et visualisation des données
-![](image/graphique.png) 
+![](images/graphique.png) 
 
 ## 6. Discussion
 [Direct answer to the research objective.]
