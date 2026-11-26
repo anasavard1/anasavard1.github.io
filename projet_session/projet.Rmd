@@ -24,6 +24,8 @@ La collecte fût beaucoup plus compliqué que je l'imaginais. J'ai demandé au s
 
 ![](graphique.png)
 
+
+J'ai utilisé Excel pour réaliser ce graphique puisque c'était l'outil où j'étais le plus à l'aise. J'ai longtemps essayé de comprendre comme transférer mes données dans le logiciel, mais après plusieurs tentatives, j'ai décidé de prendre chaque donnée de mes dates et les mettre dans Excel. J'ai ensuite créer mon graphique avec les variables que je voulais et j'ai changé son apparence pour le rendre plus facile à comprendre. Suite à cela, je l'ai transféré dans mon dossier projet sur Positron et, après une demi-heure, j'ai été capable de le faire apparaitre dans mon travail.
 ## 6. Discussion
 [Direct answer to the research objective.]
 
