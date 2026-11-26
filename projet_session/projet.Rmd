@@ -24,10 +24,13 @@ La collecte fût beaucoup plus compliqué que je l'imaginais. J'ai demandé au s
 
 ![](graphique.png)
 
+Avec ce graphique, on peut voir que tous les acteurs ont vécu un baby-boom, mais pas au même moment. L'Allemagne, le Japon et l'Italie, les États qui ont perdu la guerre, ont vécu une baisse du taux de naissance entre 1940 et 1945. La France et le Royaume-Unie, quant à eux, n'ont pas vu ce taux baissr durant la guerre. Au contraire, on peut remarquer qu'il y a une légère croissance des naissances. Pour l'ensemble des pays, il y a eu une augmentation des naissances après la guerre. Bien que la cause est encore débatttue par les historiens et les démographes, certains pensent que le fait que les soldats sont revenus de la guerre a fait augmenter le nombres de mariage et donc, logiquement, le nombre de naissances (Bavel et Reher, 2013: 269). Pour d'autres, l'amélioration des conditions de vie et l'euphorie de la victoire pour la France et le Royaume-Uni sont les réelles causes de ce baby-boom (Sanchez-Barricarte, 2018: 1212).
 
-J'ai utilisé Excel pour réaliser ce graphique puisque c'était l'outil où j'étais le plus à l'aise. J'ai longtemps essayé de comprendre comme transférer mes données dans le logiciel, mais après plusieurs tentatives, j'ai décidé de prendre chaque donnée de mes dates et les mettre dans Excel. J'ai ensuite créer mon graphique avec les variables que je voulais et j'ai changé son apparence pour le rendre plus facile à comprendre. Suite à cela, je l'ai transféré dans mon dossier projet sur Positron et, après une demi-heure, j'ai été capable de le faire apparaitre dans mon travail.
+J'ai utilisé Excel pour réaliser ce graphique puisque c'était l'outil où j'étais le plus à l'aise. J'ai longtemps essayé de comprendre comme transférer mes données dans le logiciel, mais après plusieurs tentatives, j'ai décidé de prendre chaque donnée de mes dates et les mettre dans Excel. J'ai ensuite créer mon graphique avec les variables que je voulais et j'ai changé son apparence pour le rendre plus facile à comprendre. Suite à cela, je l'ai transféré dans mon dossier projet sur Positron et, après une demi-heure, j'ai été capable de le faire apparaitre dans mon travail. 
 ## 6. Discussion
 [Direct answer to the research objective.]
 
 ## Bibliographie
 1. https://statistique.quebec.ca/vitrine/vieillissement/themes/population/pyramide-ages-animee
+2. https://onlinelibrary-wiley-com.acces.bibl.ulaval.ca/doi/epdf/10.1111/j.1728-4457.2013.00591.x 
+3. https://www.demographic-research.org/volumes/vol38/40/38-40.pdf?utm_source=consensus 
