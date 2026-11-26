@@ -3,11 +3,22 @@ title: "La tendance du baby boom"
 author: "Ana Savard<br>Université Laval<br>2026-12-11"
 output: html_document
 bibliography: references.bib
+
 ---
 
 ```{css, echo=FALSE}
 body {font-size: 12pt;}
 p {text-align: justify;}
+.csl-entry {
+  margin-bottom: 1em;
+}
+h1, h2, h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+.csl-entry {
+  margin-bottom: 1em;
+}
 ```
 
 ## 1. Question de recherche et hypothèse
@@ -23,11 +34,12 @@ La collecte fût beaucoup plus compliqué que je l'imaginais. J'ai demandé au s
 ## 3. Analyse et visualisation des données
 
 ![](graphique.png)
-Source: Statista.com
+
+Source: **Statista.com**
 
 Avec ce graphique, on peut voir que tous les acteurs ont vécu un baby-boom, mais pas au même moment. L'Allemagne, le Japon et l'Italie, les États qui ont perdu la guerre, ont vécu une baisse du taux de naissance entre 1940 et 1945. La France et le Royaume-Unie, quant à eux, n'ont pas vu ce taux baisser durant la guerre [@noauthor_france_nodate] [@noauthor_united_nodate]. Au contraire, on peut remarquer qu'il y a une légère croissance des naissances. Pour l'ensemble des pays, il y a eu une augmentation des naissances après la guerre. Bien que la cause est encore débatttue par les historiens et les démographes, certains pensent que le fait que les soldats sont revenus de la guerre a fait augmenter le nombres de mariage et donc, logiquement, le nombre de naissances [@van_bavel_baby_2013, p. 269]. Pour d'autres, l'amélioration des conditions de vie et l'euphorie de la victoire pour la France et le Royaume-Uni sont les réelles causes de ce baby-boom [@sanchez-barricarte_measuring_2018, p. 1212]. En ce qui concerne l'Allemagne, les données mélangent les naissances de l'Allemagne de l'Est et de l'Ouest, il est donc difficile de savoir si un côté a eu un plus gros baby-boom que l'autre [@noauthor_germany_nodate]. Toutefois, contrairement aux autres États, l'Allemagne est le seul pays a avoir vécu une augmentation constante du taux de naissance, si ce n'est de la chute pendant la Seconde Guerre mondiale.
 
-Ce qu'on remarque le plus est l'impressionnante chute des naissances au Japon entre les années 1950 et 1960 [@noauthor_japan_nodate]. En fait, on voit que ce n'est pas seulement le Japon qui a vécu cette baisse puisque la France, l'Italie et le Royaume-Uni ont aussi eu cette tendance. Encore une fois, les spécialistes n'ont pas vraiment une explication, mais certains pensent que puisque les femmes ont travaillé pendant la Seconde Guerre mondiale, plusieurs d'entre elles ont voulu revivre cette expérience est se prendre un travail à temps partiel, par exemple [@van_bavel_baby_2013, p. 270]. Toutefois, ils n'arrivent pas à expliquer le deuxième baby-boom que certains États, comme le Royaume-Uni, la France et l'Italie ont connu au début des années 60. Pour la baisse des naissances au Japon, les chercheurs l'expliquent par la loi de 1948 sur la protection eugénique [@pool_baby_2007, p. 145]. Cette loi, qui était active entre 1948 et 1996, autorisaient la stérilisation des femmes considérés comme porteuses de problèmes héréditaires (handicaps ou maladies mentales), souvent sans le consentement de la victime. Les avortements de ces femmes étaient aussi chose courante, ce qui explique la courbe descendante (*Ibid*).
+Ce qu'on remarque le plus est l'impressionnante chute des naissances au Japon entre les années 1950 et 1960 [@noauthor_japan_nodate]. En fait, on voit que ce n'est pas seulement le Japon qui a vécu cette baisse puisque la France, l'Italie et le Royaume-Uni ont aussi eu cette tendance. Encore une fois, les spécialistes n'ont pas vraiment une explication, mais certains pensent que puisque les femmes ont travaillé pendant la Seconde Guerre mondiale, plusieurs d'entre elles ont voulu revivre cette expérience est se prendre un travail à temps partiel, par exemple [@van_bavel_baby_2013, p. 270]. Toutefois, ils n'arrivent pas à expliquer le deuxième baby-boom que certains États, comme le Royaume-Uni, la France et l'Italie ont connu au début des années 60. Pour la baisse des naissances au Japon, les chercheurs l'expliquent par la loi de 1948 sur la protection eugénique [@pool_baby_2007, p. 145]. Cette loi, qui était active entre 1948 et 1996, autorisaient la stérilisation des femmes considérés comme porteuses de problèmes héréditaires (handicaps ou maladies mentales), souvent sans le consentement de la victime. Les avortements de ces femmes étaient aussi chose courante, ce qui explique la courbe descendante (*Ibid.*).
 
 J'ai utilisé Excel pour réaliser ce graphique puisque c'était l'outil où j'étais le plus à l'aise. J'ai longtemps essayé de comprendre comme transférer mes données dans le logiciel, mais après plusieurs tentatives, j'ai décidé de prendre chaque donnée de mes dates et les mettre dans Excel. J'ai ensuite créer mon graphique avec les variables que je voulais et j'ai changé son apparence pour le rendre plus facile à comprendre. Suite à cela, je l'ai transféré dans mon dossier projet sur Positron et, après une demi-heure, j'ai été capable de le faire apparaitre dans mon travail. Comme mentionné dans l'introduction, j'ai aussi utilisé Zotero pour m'aider à faire la liste des références et de mettre toutes mes sources dans le même style bibliographique.
 
@@ -37,8 +49,5 @@ Je crois que j'ai beaucoup plus appris en me servant des outils que lorsque j'ai
 En ce qui concerne Sofia et Google Scholar, ce n'était pas une immense découverte pour moi puisque je l'utilise de façon quotidienne pour mes travaux scolaires. Je suis une grande utilisatrice de Sofia, et je redoute le jour où je vais graduer puisque je n'aurai plus accès à son contenu. Bien sûr, Google Scholar sera là mais, bien qu'on peut trouver énormément de références, la plupart sont inaccessible, ce qui n'arrange pas les choses. Je crois que Consensus est un bon outil pour dresser un portrait large d'une question, mais avec mon utilisation pour le baby-boom, plusieurs de ses références ne m'étaient d'aucune utilité. Comme j'ai encore accès à l'outil jusqu'à ma graduation, je devrais refaire des tests pour voir si je l'adopterais ou non. En ce qui concerne Statista, je crois que c'est une bonne source si on a besoin d'avoir accès à des statistiques de partout dans le monde concernant différents sujets. Le problème est qu'il est certes accès à tous mais si la personne a besoin de télécharger les données, elle a besoin d'un compte (à moins d'être membre d'une université affiliée au site web). Pour le logiciel Excel, j'ai encore une fois dû utiliser l'IA pour comprendre comment il fonctionnait. Son interface est très complexe, mais une fois avoir regardé le tutoriel, il est assez flexible. J'ai pu faire n'importe quoi avec et changer les attributs pour mettre ce que je voulais. Toutefois, ce n'est pas pour rien que certaines écoles offrent des formations pour comprendre le fonctionnement de ce logiciel.
 
 Au final, je ne me suis pas vraiment basée sur mes valeurs lors de mon utilisation de ces outils. Je sais que l'utilisation de l'intelligence artificielle est très partagé: certains voient en cela le démon incarné qui ne fait que consommer de l'eau alors que pour d'autres, c'est un outil indispensable. Je reconnais que plusieurs personnes abusent de son utilisation, mais dans mon cas, je reconnais qu'il a été très utile pour m'expliquer les différentes fonctions des outils que j'ai utilisé. Bien que je choisissais les outils par moi-même, je me basais souvent sur ses explications pour comprendre leur fonctionnement. Je ne me suis pas basée sur mes valeurs, mais chaque outil que j'ai utilisé ont tous été profitables et chaque outil ont été capable de s'adapter aux autres. Je recommande donc chacun des outils présents dans ce travail.
-
-
-
 
 ## Références
