@@ -5,9 +5,8 @@ output: html_document
 ---
 
 ```{css, echo=FALSE}
-p {
-  text-align: justify;
-}
+body {font-size: 12pt;}
+p {text-align: justify;}
 ```
 
 ## 1. Question de recherche et hypothèse
