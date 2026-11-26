@@ -9,16 +9,9 @@ bibliography: references.bib
 ```{css, echo=FALSE}
 body {font-size: 12pt;}
 p {text-align: justify;}
-.csl-entry {
-  margin-bottom: 1em;
-}
-h1, h2, h3 {
-  margin-top: 1.5em;
-  margin-bottom: 0.75em;
-}
-.csl-entry {
-  margin-bottom: 1em;
-}
+.csl-entry {margin-bottom: 1em;}
+h1, h2, h3 {margin-top: 1.5em; margin-bottom: 0.75em;}
+.source {margin-bottom: 1em;}
 ```
 
 ## 1. Question de recherche et hypothèse
@@ -35,9 +28,9 @@ La collecte fût beaucoup plus compliqué que je l'imaginais. J'ai demandé au s
 
 ![](graphique.png)
 
-Source: **Statista.com**
+**Source:** Statista.com
 
-Avec ce graphique, on peut voir que tous les acteurs ont vécu un baby-boom, mais pas au même moment. L'Allemagne, le Japon et l'Italie, les États qui ont perdu la guerre, ont vécu une baisse du taux de naissance entre 1940 et 1945. La France et le Royaume-Unie, quant à eux, n'ont pas vu ce taux baisser durant la guerre [@noauthor_france_nodate] [@noauthor_united_nodate]. Au contraire, on peut remarquer qu'il y a une légère croissance des naissances. Pour l'ensemble des pays, il y a eu une augmentation des naissances après la guerre. Bien que la cause est encore débatttue par les historiens et les démographes, certains pensent que le fait que les soldats sont revenus de la guerre a fait augmenter le nombres de mariage et donc, logiquement, le nombre de naissances [@van_bavel_baby_2013, p. 269]. Pour d'autres, l'amélioration des conditions de vie et l'euphorie de la victoire pour la France et le Royaume-Uni sont les réelles causes de ce baby-boom [@sanchez-barricarte_measuring_2018, p. 1212]. En ce qui concerne l'Allemagne, les données mélangent les naissances de l'Allemagne de l'Est et de l'Ouest, il est donc difficile de savoir si un côté a eu un plus gros baby-boom que l'autre [@noauthor_germany_nodate]. Toutefois, contrairement aux autres États, l'Allemagne est le seul pays a avoir vécu une augmentation constante du taux de naissance, si ce n'est de la chute pendant la Seconde Guerre mondiale.
+Avec ce graphique, on peut voir que tous les acteurs ont vécu un baby-boom, mais pas au même moment. L'Allemagne, le Japon et l'Italie, les États qui ont perdu la guerre, ont vécu une baisse du taux de naissance entre 1940 et 1945. La France et le Royaume-Uni, quant à eux, n'ont pas vu ce taux baisser durant la guerre [@noauthor_france_nodate] [@noauthor_united_nodate]. Au contraire, on peut remarquer qu'il y a une légère croissance des naissances. Pour l'ensemble des pays, il y a eu une augmentation des naissances après la guerre. Bien que la cause est encore débatttue par les historiens et les démographes, certains pensent que le fait que les soldats sont revenus de la guerre a fait augmenter le nombres de mariage et donc, logiquement, le nombre de naissances [@van_bavel_baby_2013, p. 269]. Pour d'autres, l'amélioration des conditions de vie et l'euphorie de la victoire pour la France et le Royaume-Uni sont les réelles causes de ce baby-boom [@sanchez-barricarte_measuring_2018, p. 1212]. En ce qui concerne l'Allemagne, les données mélangent les naissances de l'Allemagne de l'Est et de l'Ouest, il est donc difficile de savoir si un côté a eu un plus gros baby-boom que l'autre [@noauthor_germany_nodate]. Toutefois, contrairement aux autres États, l'Allemagne est le seul pays a avoir vécu une augmentation constante du taux de naissance, si ce n'est de la chute pendant la Seconde Guerre mondiale.
 
 Ce qu'on remarque le plus est l'impressionnante chute des naissances au Japon entre les années 1950 et 1960 [@noauthor_japan_nodate]. En fait, on voit que ce n'est pas seulement le Japon qui a vécu cette baisse puisque la France, l'Italie et le Royaume-Uni ont aussi eu cette tendance. Encore une fois, les spécialistes n'ont pas vraiment une explication, mais certains pensent que puisque les femmes ont travaillé pendant la Seconde Guerre mondiale, plusieurs d'entre elles ont voulu revivre cette expérience est se prendre un travail à temps partiel, par exemple [@van_bavel_baby_2013, p. 270]. Toutefois, ils n'arrivent pas à expliquer le deuxième baby-boom que certains États, comme le Royaume-Uni, la France et l'Italie ont connu au début des années 60. Pour la baisse des naissances au Japon, les chercheurs l'expliquent par la loi de 1948 sur la protection eugénique [@pool_baby_2007, p. 145]. Cette loi, qui était active entre 1948 et 1996, autorisaient la stérilisation des femmes considérés comme porteuses de problèmes héréditaires (handicaps ou maladies mentales), souvent sans le consentement de la victime. Les avortements de ces femmes étaient aussi chose courante, ce qui explique la courbe descendante (*Ibid.*).
 
