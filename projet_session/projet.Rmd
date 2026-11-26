@@ -2,6 +2,7 @@
 title: "La tendance du baby boom"
 author: "Ana Savard<br>Université Laval<br>2026-12-11"
 output: html_document
+bibliography: references.bib
 ---
 
 ```{css, echo=FALSE}
@@ -33,6 +34,4 @@ J'ai utilisé Excel pour réaliser ce graphique puisque c'était l'outil où j'�
 [Direct answer to the research objective.]
 
 ## Bibliographie
-1. https://statistique.quebec.ca/vitrine/vieillissement/themes/population/pyramide-ages-animee
-2. https://onlinelibrary-wiley-com.acces.bibl.ulaval.ca/doi/epdf/10.1111/j.1728-4457.2013.00591.x 
-3. https://www.demographic-research.org/volumes/vol38/40/38-40.pdf?utm_source=consensus 
+# Références
